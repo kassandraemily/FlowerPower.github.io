@@ -1,0 +1,16 @@
+body{
+  color:black;
+  background-color: red;
+  text-align: center;
+  font-size: 36px;
+  font-style: "indie flower";
+}
+nav li {
+  display: inline-block;
+  font-size: 18px
+}
+h1{
+  font-style: 28px
+  color:black
+  font-style:18px
+}
