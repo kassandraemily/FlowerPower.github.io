@@ -1,0 +1,12 @@
+nav li {
+  display: inline-block;
+  font-size: 20px
+}
+
+img {
+  margin: auto;
+  display: block;
+  width: 50%;
+  height: 50%;
+
+}
